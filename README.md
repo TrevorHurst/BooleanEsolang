@@ -25,5 +25,6 @@ I have the RAM/Memory print out in 8-bit segments at the end, this can be commen
 You can make imbedded loops ie,
 
 [>[<]]
+
 I am curious if you could write a program that fills the RAM with 1s, too easy? Alternate 1s and 0s! Submit your solutions in the comments!
 Feel free to add debugging!
